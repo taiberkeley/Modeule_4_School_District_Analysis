@@ -13,14 +13,16 @@ The objective of this analysis is to perform a comprehensive analysis of the sch
     School performance based on the type of schoolA high-level snapshot of the district's key metrics, presented in a table formatAn overview of the key metrics for each school, presented in a table format
  # 2. Results: 
  # How is the district summary affected? 
-    It is importnat to start the analysis considering that the school board has notified Maria and her supervisor that the students_complete.csv file shows evidence of academic dishonesty - specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. For that reason, I had to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. For this reason, we have excluded 461 students that are from 9th grade at Thomas High School.
+
+It is importnat to start the analysis considering that the school board has notified Maria and her supervisor that the students_complete.csv file shows evidence of academic dishonesty - specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. For that reason, I had to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. For this reason, we have excluded 461 students that are from 9th grade at Thomas High School.
 
 Comparing the results from the District Summary with and without 9th grade's scores from Thomas High School:
 We can conclude that both % of Passing Math and Reading had a slight drop, for that reason, the Overall % of passing droped from 65.2% to 64.9%
 ![Screenshot](https://github.com/taiberkeley/Module_4_School_District_Analysis/blob/main/School%20District%20with%20vs%20whitout.png)
 
 # How is the school summary affected?
-    When we compare the Thomas High School summary data frame before and after excludimg 9th grade's scores, we conclude that % Passing Math and % Passing Reading were benefited. FOr that reason, the % Overall Passing went from 90.63% to 90.94% as per image below
+
+When we compare the Thomas High School summary data frame before and after excludimg 9th grade's scores, we conclude that % Passing Math and % Passing Reading were benefited. FOr that reason, the % Overall Passing went from 90.63% to 90.94% as per image below
  ![Screenshot](https://github.com/taiberkeley/Module_4_School_District_Analysis/blob/main/Thomas%20High%20School.png)   
 
 # How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools? 
