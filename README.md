@@ -18,7 +18,7 @@ It is importnat to start the analysis considering that the school board has noti
 
 Comparing the results from the District Summary with and without 9th grade's scores from Thomas High School:
 We can conclude that both % of Passing Math and Reading had a slight drop, for that reason, the Overall % of passing droped from 65.2% to 64.9%
-![Screenshot](https://github.com/taiberkeley/Module_4_School_District_Analysis/blob/main/School%20District%20with%20vs%20whitout.png)
+![Screenshot](https://github.com/taiberkeley/Module_4_School_District_Analysis/blob/main/District%20Summary.png)
 
 # How is the school summary affected?
 
