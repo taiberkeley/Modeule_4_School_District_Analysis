@@ -23,7 +23,7 @@ We can conclude that both % of Passing Math and Reading had a slight drop, for t
 # How is the school summary affected?
 
 When we compare the Thomas High School summary data frame before and after excludimg 9th grade's scores, we conclude that % Passing Math and % Passing Reading were affected. For that reason, the % Overall Passing dropped from 90.94% to 90.63% as per image below.
- ![Screenshot](https://github.com/taiberkeley/Module_4_School_District_Analysis/blob/main/Thomas%20High%20School.png)   
+ ![Screenshot](https://github.com/taiberkeley/Module_4_School_District_Analysis/blob/main/Top%205%20performing%20schools.png)   
 
 # How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools? 
 As per the above image, even though the Overall Passing % of Thomas High School dropped, when we compare the top 5 performing school before and after the manipulation of the data, Thomas High School continues as 2nd best performing school based on Overall Passing %.
