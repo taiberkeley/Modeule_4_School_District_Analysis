@@ -15,7 +15,8 @@ The objective of this analysis is to perform a comprehensive analysis of the sch
  # How is the district summary affected? 
     It is importnat to start the analysis considering that the school board has notified Maria and her supervisor that the students_complete.csv file shows evidence of academic dishonesty - specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. For that reason, I had to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. For this reason, we have excluded 461 students that are from 9th grade at Thomas High School.
 
-Before replacimg the 9th grade scores by Nan we had:
+Comparing the results from the District Summary with and without 9th grade's scores from Thomas High School:
+We can conclude that both % of Passing Math and Reading had a slight drop, for that reason, the Overall % of passing droped from 65.2% to 64.9%
 ![Screenshot](https://github.com/taiberkeley/Module_4_School_District_Analysis/blob/main/School%20District%20with%20vs%20whitout.png)
 
 #  Here is the command used to determine the number of students at the 9th grade at Thomas High School:        
