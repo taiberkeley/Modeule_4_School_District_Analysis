@@ -30,7 +30,8 @@ As per the above image, even though the Overall Passing % of Thomas High School 
 
 
 # How does replacing the ninth-grade scores affect the following:
-    # Math and reading scores by grade: 
+    # Math and reading scores by grade: the results for average scores for the 9th grade at Thomas High Scholl were null with the replacement as per image below:
+     ![Screenshot](https://github.com/taiberkeley/Module_4_School_District_Analysis/blob/main/Average%20Math%20and%20Reading%20.png) 
 Scores by school spending
 Scores by school size
 Scores by school type
